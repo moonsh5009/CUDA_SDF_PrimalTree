@@ -7,6 +7,7 @@
  - Primal Tree 밀드할 때 Sample 거리 계산할 때만 GPU 사용
 
 추후 여러 프로젝트를 진행하면서 위의 문제점 해결
+ - https://github.com/moonsh5009/CUDA_ProjectiveDynamics_Chebyshev
 
 # Result
 ![result](https://user-images.githubusercontent.com/86860544/228164760-d42c4739-d6b5-4b67-8357-2518bc235e2d.gif)
