@@ -8,7 +8,11 @@
 
 추후 여러 프로젝트를 진행하면서 위의 문제점 해결
 
-참고문헌
+# Result
+
+
+
+# 참고문헌
  - J. Andreas Bærentzen and Henrik Aanæs. Generating Signed Distance Fields From Triangle Meshes. IMM-TECHNICAL REPORT-2002-21.
  - Sarah F. Frisken, Ronald N. Perry, Alyn P. Rockwood, Thouis R. Jones. Adaptively Sampled Distance Fields: A General Representation of Shape for Computer Graphics. Proceedings of the 27th annual conference on Computer graphics and interactive techniques. 2000.
  - Sylvain Lefebvre and Hugues Hoppe. Compressed Random-Access Trees for Spatially Coherent Data. The Eurographics Association 2007.
