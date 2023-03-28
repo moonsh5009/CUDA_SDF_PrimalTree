@@ -10,10 +10,12 @@
 
 # Result
 ![result](https://user-images.githubusercontent.com/86860544/228164760-d42c4739-d6b5-4b67-8357-2518bc235e2d.gif)
+
 ### Collision
-![collision](https://user-images.githubusercontent.com/86860544/228164777-331c606f-54e0-4ef2-85e2-8effd4a4ed6c.JPG)
+![collision](https://user-images.githubusercontent.com/86860544/228165445-3e1cbbf5-6449-4597-a0de-5c4d28ca1baa.JPG)
+
 ### Ray Tracing
-![rayTracing](https://user-images.githubusercontent.com/86860544/228164797-81c9e70a-d4c8-4a35-a987-372f4c4faa87.JPG)
+![rayTracing](https://user-images.githubusercontent.com/86860544/228165460-b56c694c-7971-4745-bb17-dc682ab1220f.JPG)
 
 
 
